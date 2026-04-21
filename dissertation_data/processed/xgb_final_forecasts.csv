@@ -1,0 +1,55 @@
+scenario,country,year,gdp_forecast,baseline,deviation,method
+Moderate,Bangladesh,2025,5.3001,5.7,-0.4,XGBoost_Final_Depth2
+Moderate,Bangladesh,2026,5.3273,5.7,-0.37,XGBoost_Final_Depth2
+Moderate,Bangladesh,2027,5.2527,5.7,-0.45,XGBoost_Final_Depth2
+Moderate,India,2025,5.259,7.76,-2.5,XGBoost_Final_Depth2
+Moderate,India,2026,5.6758,7.76,-2.08,XGBoost_Final_Depth2
+Moderate,India,2027,5.259,7.76,-2.5,XGBoost_Final_Depth2
+Moderate,Japan,2025,-0.1599,0.84,-1.0,XGBoost_Final_Depth2
+Moderate,Japan,2026,0.0067,0.84,-0.83,XGBoost_Final_Depth2
+Moderate,Japan,2027,-0.1599,0.84,-1.0,XGBoost_Final_Depth2
+Moderate,Pakistan,2025,3.6387,2.47,1.17,XGBoost_Final_Depth2
+Moderate,Pakistan,2026,3.4439,2.47,0.97,XGBoost_Final_Depth2
+Moderate,Pakistan,2027,3.6387,2.47,1.17,XGBoost_Final_Depth2
+Moderate,Singapore,2025,2.2913,3.44,-1.15,XGBoost_Final_Depth2
+Moderate,Singapore,2026,2.4828,3.44,-0.96,XGBoost_Final_Depth2
+Moderate,Singapore,2027,2.2913,3.44,-1.15,XGBoost_Final_Depth2
+Moderate,South Korea,2025,3.5585,2.1,1.46,XGBoost_Final_Depth2
+Moderate,South Korea,2026,3.3154,2.1,1.22,XGBoost_Final_Depth2
+Moderate,South Korea,2027,3.5585,2.1,1.46,XGBoost_Final_Depth2
+Prolonged,Bangladesh,2025,5.3001,5.7,-0.4,XGBoost_Final_Depth2
+Prolonged,Bangladesh,2026,5.0115,5.7,-0.69,XGBoost_Final_Depth2
+Prolonged,Bangladesh,2027,4.5995,5.7,-1.1,XGBoost_Final_Depth2
+Prolonged,India,2025,5.259,7.76,-2.5,XGBoost_Final_Depth2
+Prolonged,India,2026,5.36,7.76,-2.4,XGBoost_Final_Depth2
+Prolonged,India,2027,4.8327,7.76,-2.93,XGBoost_Final_Depth2
+Prolonged,Japan,2025,-0.1599,0.84,-1.0,XGBoost_Final_Depth2
+Prolonged,Japan,2026,-0.0213,0.84,-0.86,XGBoost_Final_Depth2
+Prolonged,Japan,2027,-0.1936,0.84,-1.03,XGBoost_Final_Depth2
+Prolonged,Pakistan,2025,3.6387,2.47,1.17,XGBoost_Final_Depth2
+Prolonged,Pakistan,2026,3.4159,2.47,0.95,XGBoost_Final_Depth2
+Prolonged,Pakistan,2027,3.605,2.47,1.13,XGBoost_Final_Depth2
+Prolonged,Singapore,2025,2.2913,3.44,-1.15,XGBoost_Final_Depth2
+Prolonged,Singapore,2026,2.4547,3.44,-0.99,XGBoost_Final_Depth2
+Prolonged,Singapore,2027,2.2577,3.44,-1.18,XGBoost_Final_Depth2
+Prolonged,South Korea,2025,3.5585,2.1,1.46,XGBoost_Final_Depth2
+Prolonged,South Korea,2026,3.2874,2.1,1.19,XGBoost_Final_Depth2
+Prolonged,South Korea,2027,3.5249,2.1,1.42,XGBoost_Final_Depth2
+Extreme,Bangladesh,2025,5.3001,5.7,-0.4,XGBoost_Final_Depth2
+Extreme,Bangladesh,2026,5.0115,5.7,-0.69,XGBoost_Final_Depth2
+Extreme,Bangladesh,2027,4.5995,5.7,-1.1,XGBoost_Final_Depth2
+Extreme,India,2025,5.259,7.76,-2.5,XGBoost_Final_Depth2
+Extreme,India,2026,5.3206,7.76,-2.44,XGBoost_Final_Depth2
+Extreme,India,2027,4.5668,7.76,-3.19,XGBoost_Final_Depth2
+Extreme,Japan,2025,-0.1599,0.84,-1.0,XGBoost_Final_Depth2
+Extreme,Japan,2026,-0.0213,0.84,-0.86,XGBoost_Final_Depth2
+Extreme,Japan,2027,-0.1936,0.84,-1.03,XGBoost_Final_Depth2
+Extreme,Pakistan,2025,3.6387,2.47,1.17,XGBoost_Final_Depth2
+Extreme,Pakistan,2026,3.4159,2.47,0.95,XGBoost_Final_Depth2
+Extreme,Pakistan,2027,3.3138,2.47,0.84,XGBoost_Final_Depth2
+Extreme,Singapore,2025,2.2913,3.44,-1.15,XGBoost_Final_Depth2
+Extreme,Singapore,2026,2.4547,3.44,-0.99,XGBoost_Final_Depth2
+Extreme,Singapore,2027,2.2577,3.44,-1.18,XGBoost_Final_Depth2
+Extreme,South Korea,2025,3.5585,2.1,1.46,XGBoost_Final_Depth2
+Extreme,South Korea,2026,3.2874,2.1,1.19,XGBoost_Final_Depth2
+Extreme,South Korea,2027,3.5249,2.1,1.42,XGBoost_Final_Depth2

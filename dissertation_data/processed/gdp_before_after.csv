@@ -1,0 +1,19 @@
+country,scenario,pre_war_gdp,war_avg_gdp,change_pp,pct_change
+Bangladesh,Moderate,5.7,5.29,-0.41,-7.1
+Bangladesh,Prolonged,5.7,4.97,-0.73,-12.8
+Bangladesh,Extreme,5.7,4.97,-0.73,-12.8
+India,Moderate,7.76,5.4,-2.37,-30.5
+India,Prolonged,7.76,5.15,-2.61,-33.7
+India,Extreme,7.76,5.05,-2.72,-35.0
+Japan,Moderate,0.84,-0.1,-0.94,-112.4
+Japan,Prolonged,0.84,-0.12,-0.97,-114.9
+Japan,Extreme,0.84,-0.12,-0.97,-114.9
+Pakistan,Moderate,2.47,1.82,-0.65,-26.3
+Pakistan,Prolonged,2.47,0.97,-1.5,-60.8
+Pakistan,Extreme,2.47,0.16,-2.31,-93.5
+Singapore,Moderate,3.44,2.36,-1.08,-31.5
+Singapore,Prolonged,3.44,2.33,-1.1,-32.1
+Singapore,Extreme,3.44,2.33,-1.1,-32.1
+South Korea,Moderate,2.1,1.83,-0.28,-13.3
+South Korea,Prolonged,2.1,1.57,-0.53,-25.4
+South Korea,Extreme,2.1,1.33,-0.78,-36.9

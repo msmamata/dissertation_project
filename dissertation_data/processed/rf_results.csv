@@ -1,0 +1,2 @@
+best_params,train_rmse,val_rmse,test_rmse,train_mae,val_mae,test_mae,train_mape,val_mape,test_mape
+"{'n_estimators': 200, 'max_depth': None, 'min_samples_split': 5, 'min_samples_leaf': 1}",1.0634,0.5531,2.0122,0.7115,0.3935,1.4119,58.44,16.28,146.51

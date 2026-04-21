@@ -1,0 +1,2 @@
+train_rmse,val_rmse,test_rmse,max_depth,learning_rate,subsample,reg_alpha,reg_lambda,n_estimators
+0.938,1.3275,1.8986,3,0.1,0.8,0.1,2.0,134

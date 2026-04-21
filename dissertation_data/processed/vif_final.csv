@@ -1,0 +1,18 @@
+variable,vif,status
+oil_shock_signal,4.1,✓ OK
+oil_x_buffer,2.7,✓ OK
+hormuz_disruption,3.7,✓ OK
+gpr_normalised,1.78,✓ OK
+conflict_dummy,2.44,✓ OK
+baltic_dry_index,5.59,⚠ moderate
+unemployment,4.33,✓ OK
+debt_gdp,8.94,⚠ moderate
+remittance_pct_gdp,3.66,✓ OK
+energy_imports_pct,6.69,⚠ moderate
+fertilizer_shock,1.84,✓ OK
+reserve_days,8.5,⚠ moderate
+country_encoded,9.17,⚠ moderate
+oil_shock_signal_lag1,2.1,✓ OK
+gpr_normalised_lag1,1.81,✓ OK
+inflation_lag1,6.84,⚠ moderate
+hormuz_disruption_lag1,2.26,✓ OK

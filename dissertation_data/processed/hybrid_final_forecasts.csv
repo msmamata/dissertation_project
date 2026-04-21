@@ -1,0 +1,55 @@
+scenario,country,year,gdp_forecast,baseline,deviation,model_used
+Moderate,Bangladesh,2025,5.3001,5.7,-0.4,XGBoost
+Moderate,Bangladesh,2026,5.3273,5.7,-0.37,XGBoost
+Moderate,Bangladesh,2027,5.2527,5.7,-0.45,XGBoost
+Prolonged,Bangladesh,2025,5.3001,5.7,-0.4,XGBoost
+Prolonged,Bangladesh,2026,5.0115,5.7,-0.69,XGBoost
+Prolonged,Bangladesh,2027,4.5995,5.7,-1.1,XGBoost
+Extreme,Bangladesh,2025,5.3001,5.7,-0.4,XGBoost
+Extreme,Bangladesh,2026,5.0115,5.7,-0.69,XGBoost
+Extreme,Bangladesh,2027,4.5995,5.7,-1.1,XGBoost
+Moderate,India,2025,5.259,7.76,-2.5,XGBoost
+Moderate,India,2026,5.6758,7.76,-2.08,XGBoost
+Moderate,India,2027,5.259,7.76,-2.5,XGBoost
+Prolonged,India,2025,5.259,7.76,-2.5,XGBoost
+Prolonged,India,2026,5.36,7.76,-2.4,XGBoost
+Prolonged,India,2027,4.8327,7.76,-2.93,XGBoost
+Extreme,India,2025,5.259,7.76,-2.5,XGBoost
+Extreme,India,2026,5.3206,7.76,-2.44,XGBoost
+Extreme,India,2027,4.5668,7.76,-3.19,XGBoost
+Moderate,Japan,2025,-0.1599,0.84,-1.0,XGBoost
+Moderate,Japan,2026,0.0067,0.84,-0.83,XGBoost
+Moderate,Japan,2027,-0.1599,0.84,-1.0,XGBoost
+Prolonged,Japan,2025,-0.1599,0.84,-1.0,XGBoost
+Prolonged,Japan,2026,-0.0213,0.84,-0.86,XGBoost
+Prolonged,Japan,2027,-0.1936,0.84,-1.03,XGBoost
+Extreme,Japan,2025,-0.1599,0.84,-1.0,XGBoost
+Extreme,Japan,2026,-0.0213,0.84,-0.86,XGBoost
+Extreme,Japan,2027,-0.1936,0.84,-1.03,XGBoost
+Moderate,Pakistan,2025,2.188,2.47,-0.28,Calibrated
+Moderate,Pakistan,2026,1.484,2.47,-0.99,Calibrated
+Moderate,Pakistan,2027,1.7944,2.47,-0.68,Calibrated
+Prolonged,Pakistan,2025,2.026,2.47,-0.44,Calibrated
+Prolonged,Pakistan,2026,0.252,2.47,-2.22,Calibrated
+Prolonged,Pakistan,2027,0.6256,2.47,-1.84,Calibrated
+Extreme,Pakistan,2025,1.906,2.47,-0.56,Calibrated
+Extreme,Pakistan,2026,-0.861,2.47,-3.33,Calibrated
+Extreme,Pakistan,2027,-0.5612,2.47,-3.03,Calibrated
+Moderate,Singapore,2025,2.2913,3.44,-1.15,XGBoost
+Moderate,Singapore,2026,2.4828,3.44,-0.96,XGBoost
+Moderate,Singapore,2027,2.2913,3.44,-1.15,XGBoost
+Prolonged,Singapore,2025,2.2913,3.44,-1.15,XGBoost
+Prolonged,Singapore,2026,2.4547,3.44,-0.99,XGBoost
+Prolonged,Singapore,2027,2.2577,3.44,-1.18,XGBoost
+Extreme,Singapore,2025,2.2913,3.44,-1.15,XGBoost
+Extreme,Singapore,2026,2.4547,3.44,-0.99,XGBoost
+Extreme,Singapore,2027,2.2577,3.44,-1.18,XGBoost
+Moderate,South Korea,2025,1.934,2.1,-0.17,Calibrated
+Moderate,South Korea,2026,1.7167,2.1,-0.38,Calibrated
+Moderate,South Korea,2027,1.826,2.1,-0.27,Calibrated
+Prolonged,South Korea,2025,1.84,2.1,-0.26,Calibrated
+Prolonged,South Korea,2026,1.3834,2.1,-0.72,Calibrated
+Prolonged,South Korea,2027,1.4901,2.1,-0.61,Calibrated
+Extreme,South Korea,2025,1.768,2.1,-0.33,Calibrated
+Extreme,South Korea,2026,1.0735,2.1,-1.03,Calibrated
+Extreme,South Korea,2027,1.1401,2.1,-0.96,Calibrated

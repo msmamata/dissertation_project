@@ -1,0 +1,17 @@
+variable,VIF,status
+brent_crude_usd,17.92,✗ HIGH
+lng_price_usd,27.5,✗ HIGH
+inflation,7.51,⚠ moderate
+gpr_global,14.18,✗ HIGH
+hormuz_flow_mbd,358.1,✗ HIGH
+baltic_dry_index,9.53,⚠ moderate
+reserve_days,23.55,✗ HIGH
+remittance_pct_gdp,7.88,⚠ moderate
+debt_gdp,30.8,✗ HIGH
+fertilizer_price_index,346.49,✗ HIGH
+oil_shock_signal,3.84,✓ OK
+oil_x_buffer,2.72,✓ OK
+trade_exposure_score,6.12,⚠ moderate
+fertilizer_shock,3.42,✓ OK
+exchange_rate_usd,8.48,⚠ moderate
+unemployment,5.91,⚠ moderate

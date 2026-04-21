@@ -1,0 +1,19 @@
+country,model,rmse,mae,mape
+Bangladesh,VAR,1.3424,1.036,22.42
+Bangladesh,RF,0.9464,0.7798,15.43
+Bangladesh,XGB,0.6802,0.6166,11.48
+India,VAR,2.0065,1.659,19.74
+India,RF,2.1208,1.8668,22.67
+India,XGB,2.7579,2.579,32.17
+Japan,VAR,0.604,0.5865,248.34
+Japan,RF,0.6393,0.5556,236.32
+Japan,XGB,0.6211,0.5028,122.98
+Pakistan,VAR,2.615,2.1327,361.34
+Pakistan,RF,3.567,2.7608,483.79
+Pakistan,XGB,2.7447,2.0505,377.03
+Singapore,VAR,2.2233,1.794,80.27
+Singapore,RF,2.2383,1.79,80.16
+Singapore,XGB,2.2578,1.9362,78.68
+South Korea,VAR,1.3286,1.2303,66.65
+South Korea,RF,0.8707,0.718,40.71
+South Korea,XGB,1.2524,1.0655,60.16

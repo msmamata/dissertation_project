@@ -1,0 +1,2 @@
+train_rmse,val_rmse,test_rmse,train_mae,test_mae,max_depth,max_features,min_samples_leaf,n_estimators
+0.9093,1.8491,1.8653,0.5883,1.4362,,sqrt,1,100

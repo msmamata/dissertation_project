@@ -1,0 +1,55 @@
+scenario,country,year,year_label,gdp_forecast,baseline,deviation
+Moderate,Bangladesh,2025,Pre-war tension,5.1925,5.7,-0.51
+Moderate,Bangladesh,2026,War Year 1,5.6217,5.7,-0.08
+Moderate,Bangladesh,2027,War Year 2/Recovery,5.5304,5.7,-0.17
+Moderate,India,2025,Pre-war tension,5.0104,7.76,-2.75
+Moderate,India,2026,War Year 1,6.1366,7.76,-1.62
+Moderate,India,2027,War Year 2/Recovery,5.2325,7.76,-2.53
+Moderate,Japan,2025,Pre-war tension,0.9838,0.84,0.14
+Moderate,Japan,2026,War Year 1,0.8285,0.84,-0.01
+Moderate,Japan,2027,War Year 2/Recovery,1.0478,0.84,0.21
+Moderate,Pakistan,2025,Pre-war tension,5.2985,2.47,2.83
+Moderate,Pakistan,2026,War Year 1,5.6131,2.47,3.14
+Moderate,Pakistan,2027,War Year 2/Recovery,5.6671,2.47,3.2
+Moderate,Singapore,2025,Pre-war tension,7.1898,3.44,3.75
+Moderate,Singapore,2026,War Year 1,6.4361,3.44,3.0
+Moderate,Singapore,2027,War Year 2/Recovery,6.2262,3.44,2.79
+Moderate,South Korea,2025,Pre-war tension,4.2945,2.1,2.19
+Moderate,South Korea,2026,War Year 1,3.2851,2.1,1.19
+Moderate,South Korea,2027,War Year 2/Recovery,3.5675,2.1,1.47
+Prolonged,Bangladesh,2025,Pre-war tension,5.2535,5.7,-0.45
+Prolonged,Bangladesh,2026,War Year 1,5.9213,5.7,0.22
+Prolonged,Bangladesh,2027,War Year 2/Recovery,5.7284,5.7,0.03
+Prolonged,India,2025,Pre-war tension,5.0969,7.76,-2.66
+Prolonged,India,2026,War Year 1,6.3679,7.76,-1.39
+Prolonged,India,2027,War Year 2/Recovery,6.2974,7.76,-1.46
+Prolonged,Japan,2025,Pre-war tension,1.0703,0.84,0.23
+Prolonged,Japan,2026,War Year 1,2.0405,0.84,1.2
+Prolonged,Japan,2027,War Year 2/Recovery,1.0902,0.84,0.25
+Prolonged,Pakistan,2025,Pre-war tension,4.988,2.47,2.52
+Prolonged,Pakistan,2026,War Year 1,6.7469,2.47,4.28
+Prolonged,Pakistan,2027,War Year 2/Recovery,6.6344,2.47,4.16
+Prolonged,Singapore,2025,Pre-war tension,7.2101,3.44,3.77
+Prolonged,Singapore,2026,War Year 1,6.959,3.44,3.52
+Prolonged,Singapore,2027,War Year 2/Recovery,6.7417,3.44,3.3
+Prolonged,South Korea,2025,Pre-war tension,4.2274,2.1,2.13
+Prolonged,South Korea,2026,War Year 1,3.7197,2.1,1.62
+Prolonged,South Korea,2027,War Year 2/Recovery,3.7842,2.1,1.68
+Extreme,Bangladesh,2025,Pre-war tension,5.2535,5.7,-0.45
+Extreme,Bangladesh,2026,War Year 1,5.9962,5.7,0.3
+Extreme,Bangladesh,2027,War Year 2/Recovery,5.9365,5.7,0.24
+Extreme,India,2025,Pre-war tension,5.0969,7.76,-2.66
+Extreme,India,2026,War Year 1,6.4073,7.76,-1.35
+Extreme,India,2027,War Year 2/Recovery,6.8501,7.76,-0.91
+Extreme,Japan,2025,Pre-war tension,1.0703,0.84,0.23
+Extreme,Japan,2026,War Year 1,2.4913,0.84,1.65
+Extreme,Japan,2027,War Year 2/Recovery,2.2598,0.84,1.42
+Extreme,Pakistan,2025,Pre-war tension,4.988,2.47,2.52
+Extreme,Pakistan,2026,War Year 1,5.1883,2.47,2.72
+Extreme,Pakistan,2027,War Year 2/Recovery,5.2963,2.47,2.83
+Extreme,Singapore,2025,Pre-war tension,7.2101,3.44,3.77
+Extreme,Singapore,2026,War Year 1,6.959,3.44,3.52
+Extreme,Singapore,2027,War Year 2/Recovery,6.9775,3.44,3.54
+Extreme,South Korea,2025,Pre-war tension,4.2274,2.1,2.13
+Extreme,South Korea,2026,War Year 1,3.7197,2.1,1.62
+Extreme,South Korea,2027,War Year 2/Recovery,4.0178,2.1,1.92

@@ -1,0 +1,14 @@
+,partial_r,p_value,significant
+brent_crude_usd,-0.0001,0.9992,False
+inflation,-0.0681,0.3636,False
+gpr_global,-0.0093,0.9012,False
+hormuz_flow_mbd,0.0455,0.5437,False
+baltic_dry_index,0.0098,0.8963,False
+reserve_days,-0.2863,0.0001,True
+remittance_pct_gdp,-0.0476,0.526,False
+debt_gdp,-0.1927,0.0096,True
+fertilizer_price_index,0.0053,0.9432,False
+oil_shock_signal,0.1073,0.1515,False
+oil_x_buffer,-0.0719,0.3372,False
+trade_exposure_score,0.0736,0.3263,False
+fertilizer_shock,-0.1096,0.1429,False
