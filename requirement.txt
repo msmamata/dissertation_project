@@ -6,5 +6,8 @@ xgboost
 shap
 statsmodels
 scipy
+streamlit
 seaborn
 jupyter
+openpyxl
+fredapi
