@@ -1,13 +1,13 @@
 pandas
 numpy
 matplotlib
+seaborn
 scikit-learn
 xgboost
 shap
 statsmodels
 scipy
 streamlit
-seaborn
-jupyter
 openpyxl
+pydeck
 fredapi
